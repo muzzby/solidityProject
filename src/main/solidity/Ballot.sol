@@ -11,6 +11,7 @@ contract Ballot {
         uint8 vote;
         // 是否代理
         address delegate;
+
     }
 
     //某个提案获得了多少票
